@@ -10,8 +10,15 @@ public class Employee {
 		System.out.println("hello from work");
 	}
 	
+
 	public void testMaster() {
 		System.out.println("hello from master");
+	}
+	
+	
+	public void testDev() {
+		System.out.println("hello from test dev");
+
 	}
 
 }
