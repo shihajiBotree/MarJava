@@ -9,5 +9,11 @@ public class Employee {
 	public void work() {
 		System.out.println("hello from work");
 	}
+	
+	
+	
+	public void testDev() {
+		System.out.println("hello from test dev");
+	}
 
 }
